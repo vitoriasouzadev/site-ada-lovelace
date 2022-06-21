@@ -9,4 +9,5 @@ Ela é **responsável pelo primeiro algoritmo** que foi usado por uma calculador
 [Clique aqui e conheça mais um pouco mais sobre a história de Ada](https://siteada.vitoriade9.repl.co/)
 
 
+![Ada Lovelave](img/adaTabela.png)
 
