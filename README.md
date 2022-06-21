@@ -1,4 +1,4 @@
-## Projeto final desenvolvido no curso "Eu Programo" da Programaria - Turma 18 :purple_heart:
+## Projeto desenvolvido no curso "Eu Programo" da PrograMaria - Turma 18 :purple_heart:
 
 
 
